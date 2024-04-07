@@ -1,3 +1,7 @@
+/*
+This component represents a star rating system with a specified number of stars.
+It allows users to click on stars to set a rating and hover over stars to see the rating they would receive if clicked.
+ */
 import { useState } from "react";
 import { FaStar } from "react-icons/fa";
 import './styles.css';
